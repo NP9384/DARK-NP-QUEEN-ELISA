@@ -3,7 +3,7 @@
 <u>♥️ Coding by DARK NP ♥️</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/pzsnFL7/Screenshot-20231208-144820-Gallery.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/ZK2VBKf/Screenshot-20231208-144820-Gallery.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DARK+NP+WHATSAPP+BOT" alt="">
